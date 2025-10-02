@@ -101,3 +101,7 @@
 [02Oct2025 18:12:56.950] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [02Oct2025 18:12:57.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [02Oct2025 18:12:57.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: home/codespace/.python/current/bin/python "/workspaces/PROYECTO-LIFECOLE-2-La-aventura/msx (1).py"<--[HERE]
+[02Oct2025 18:29:39.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Oct2025 18:29:39.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stop<--[HERE]
+[02Oct2025 18:29:53.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Oct2025 18:29:53.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sí<--[HERE]
