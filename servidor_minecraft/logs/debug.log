@@ -594,3 +594,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Oct2025 18:29:39.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stop<--[HERE]
 [02Oct2025 18:29:53.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [02Oct2025 18:29:53.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sí<--[HERE]
+[02Oct2025 18:32:56.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 18:32:56.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 18:37:56.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 18:37:56.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
